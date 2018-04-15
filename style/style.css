@@ -1,3 +1,19 @@
 form a {
   margin-left: 8px;
 }
+
+.app {
+  padding: 16px;
+  background-color: black;
+  color: white;
+}
+
+.app h3 {
+  color: red;
+  margin: 8px 0;
+}
+
+strong {
+  text-decoration: none;
+  color: red;
+}
